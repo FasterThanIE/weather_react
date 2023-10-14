@@ -1,0 +1,12 @@
+[
+  { "city": "New York", "temperature": 75 },
+  { "city": "Los Angeles", "temperature": 80 },
+  { "city": "Chicago", "temperature": 68 },
+  { "city": "Miami", "temperature": 85 },
+  { "city": "San Francisco", "temperature": 72 },
+  { "city": "Dallas", "temperature": 90 },
+  { "city": "Seattle", "temperature": 65 },
+  { "city": "Boston", "temperature": 72 },
+  { "city": "Denver", "temperature": 78 },
+  { "city": "Phoenix", "temperature": 95 }
+]
